@@ -74,7 +74,7 @@ function App() {
     return (
         <div className="App">
             <h1 className="text-3xl font-bold text-center py-4">
-                My Github (My Repo)
+                My New Github (My Repo)
             </h1>
             <div className="container mx-auto">
                 <h1 className="text-xl">Register a webhook</h1>
